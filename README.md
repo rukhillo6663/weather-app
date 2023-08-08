@@ -1,6 +1,10 @@
 # Know You Whether
 
 This is a simple weather application created using React. It provides real-time weather information for a given location.
+![sample-1](image.png)
+![sample-2](image-1.png)
+![sample-3](image-2.png)
+![sample-4](image-3.png)
 
 ## Features
 
@@ -61,15 +65,6 @@ The application uses environment variables to store the API key and other config
 - The application fetches the weather data from the API and displays the current conditions.
 
 - The user can toggle between Celsius and Fahrenheit units using the unit switcher button.
-
-## Live-Preview - [Live]
-
-### Sample Image
-
-![sample-1](image.png)
-![sample-2](image-1.png)
-![sample-3](image-2.png)
-![sample-4](image-3.png)
 
 # Contributing
 
